@@ -1,3 +1,5 @@
+# App Read
+
 This program is a prototype of an app.
 The app has a goal to encourage people to read more books.
 
@@ -15,7 +17,7 @@ Download the British library dataset with the information about books following 
 https://www.bl.uk/bibliographic/downloads/AlicesDayResearcherFormat_202006_csv.zip.
 Then extract titles.csv from this archive to the folder where app_read.py is situated.
 You will also need film datasets. Follow next links to download them:
-1) title.basics.tsv - https://datasets.imdbws.com/title.basics.tsv.gz
+1) [title.basics.tsv](https://datasets.imdbws.com/title.basics.tsv.gz)
 2) title.crew.tsv - https://datasets.imdbws.com/title.crew.tsv.gz
 3) title.principals.tsv - https://datasets.imdbws.com/title.principals.tsv.gz
 4) name.basics.tsv -  https://datasets.imdbws.com/name.basics.tsv.gz
