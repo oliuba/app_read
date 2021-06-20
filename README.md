@@ -20,6 +20,7 @@ You will also need film datasets. Follow next links to download them:
 2) [title.crew.tsv](https://datasets.imdbws.com/title.crew.tsv.gz)
 3) [title.principals.tsv](https://datasets.imdbws.com/title.principals.tsv.gz)
 4) [name.basics.tsv](https://datasets.imdbws.com/name.basics.tsv.gz)
+
 Each of these 4 files is an archive. You will need to extract the tsv file from them to the same folder where
 app_read.py is situated. You will also need to rename them to 'title.basics.tsv', 'title.crew.tsv',
 'title.principals.tsv' and 'name.basics.tsv' accordingly.
