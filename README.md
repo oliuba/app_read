@@ -13,14 +13,13 @@ That is why the books recommendations and comparisons are limited by these books
 
 To use the program, download the csv and tsv files with film and books datasets,
 rename the film datasets.
-Download the British library dataset with the information about books following the link:
-https://www.bl.uk/bibliographic/downloads/AlicesDayResearcherFormat_202006_csv.zip.
+Download the British library dataset with the information about books following the [link](https://www.bl.uk/bibliographic/downloads/AlicesDayResearcherFormat_202006_csv.zip).
 Then extract titles.csv from this archive to the folder where app_read.py is situated.
 You will also need film datasets. Follow next links to download them:
 1) [title.basics.tsv](https://datasets.imdbws.com/title.basics.tsv.gz)
-2) title.crew.tsv - https://datasets.imdbws.com/title.crew.tsv.gz
-3) title.principals.tsv - https://datasets.imdbws.com/title.principals.tsv.gz
-4) name.basics.tsv -  https://datasets.imdbws.com/name.basics.tsv.gz
+2) [title.crew.tsv](https://datasets.imdbws.com/title.crew.tsv.gz)
+3) [title.principals.tsv](https://datasets.imdbws.com/title.principals.tsv.gz)
+4) [name.basics.tsv](https://datasets.imdbws.com/name.basics.tsv.gz)
 Each of these 4 files is an archive. You will need to extract the tsv file from them to the same folder where
 app_read.py is situated. You will also need to rename them to 'title.basics.tsv', 'title.crew.tsv',
 'title.principals.tsv' and 'name.basics.tsv' accordingly.
